@@ -6,8 +6,7 @@ import sys
 import pickle
 from bs4 import BeautifulSoup, Comment
 
-LG_DIR = '../../'
-WEBPAGES_DIR = f'{LG_DIR}/webpages/'
+WEBPAGES_DIR = f'../../data/webpages/'
 SRC_WEBSITES_FILE = sys.argv[1]
 IDX = sys.argv[2]
 

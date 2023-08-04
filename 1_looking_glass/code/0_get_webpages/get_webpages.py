@@ -5,8 +5,8 @@ import requests
 
 LG_DIR = '../../'
 
-WEBSITES_FILE = f'{LG_DIR}/src/websites.txt'
-WEBPAGES_DIR = f'{LG_DIR}/webpages'
+WEBSITES_FILE = f'{LG_DIR}/data/websites.txt'
+WEBPAGES_DIR = f'{LG_DIR}/data/webpages'
 
 os.system(f'mkdir -p {WEBPAGES_DIR}')
 

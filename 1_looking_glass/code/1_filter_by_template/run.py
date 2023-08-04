@@ -1,6 +1,6 @@
 import os
 
-SRC_WEBSITES_PATH = os.path.realpath('../../src/websites.txt')
+SRC_WEBSITES_PATH = os.path.realpath('../../data/websites.txt')
 EACH_TEMPLATE_DIR = './result'
 
 TEMPLATE_0_DIR = f'{EACH_TEMPLATE_DIR}/template_0'
