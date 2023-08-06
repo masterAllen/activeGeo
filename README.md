@@ -7,11 +7,11 @@ Authors: [Allen Hong](https://github.com/masterAllen), [Yahui Li](https://www.in
 ## TODO
 2023/08/04
 
-The code previously uploaded has some problems. I am reorganizing recently and will re-upload it recently. I'm sorry you'll have to wait.
+The code previously uploaded has some problems. I am re-organizing recently and will re-upload it recently. I'm sorry you'll have to wait.
 
 
 ## First statement
-**For convenience, we refer to 'country/region' as 'country' in our project! (Using 'country or region' makes a lot of variables too long, such as `dict_city_by_country_or_region`) This project has nothing to do with politics. If you feel offended by any part of this project, please do not hesitate to contact us!**
+**For convenience, we refer to 'country/region' as 'country' in our project! (Using 'country or region' makes a lot of variables too long, such as `dict_city_by_country_or_region`.) This project has nothing to do with politics! If you feel offended by any part of this project, please do not hesitate to contact us!**
 
 ## Requirements
 Python 3.8+ is ok, then `pip install -r requirements.txt` to install the required packages :)
