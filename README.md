@@ -4,12 +4,6 @@ Official code for the paper [A cheap and accurate delay-based IP Geolocation met
 
 Authors: [Allen Hong](https://github.com/masterAllen), [Yahui Li](https://www.insc.tsinghua.edu.cn/info/1157/3380.htm), [Han Zhang](https://www.insc.tsinghua.edu.cn/info/1157/2458.htm), Ming Wang, [Changqing An](https://www.insc.tsinghua.edu.cn/info/1157/2473.htm), [Jilong Wang](https://www.insc.tsinghua.edu.cn/info/1157/2449.htm).
 
-## TODO
-2023/08/04
-
-The code previously uploaded has some problems. I am re-organizing recently and will re-upload it recently. I'm sorry you'll have to wait.
-
-
 ## First statement
 **For convenience, we refer to 'country/region' as 'country' in our project! (Using 'country or region' makes a lot of variables too long, such as `dict_city_by_country_or_region`.) This project has nothing to do with politics! If you feel offended by any part of this project, please do not hesitate to contact us!**
 
@@ -29,5 +23,8 @@ The respective roles of each directory are as follows:
 ## FAQ
 Q: Why is there no reproduction code for related work?
 
-Q: Why are there some differences in the results of the evaluation phase?
+A: This repository is just the code of our work. Thanks very much to [the work of Zack et al](https://github.com/zackw/active-geolocator), their code is very helpful for us to reproduce the related works. You can also refer to them. If you have some problems, you can send us email to communicate.
 
+Q: Why are there some differences in the results of the evaluation?
+
+A: The results are highly dependent on the input data. We re-generated training and test data during each evaluation. Unluckily, the original data of the paper has been overwritten :(
