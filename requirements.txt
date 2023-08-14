@@ -1,0 +1,16 @@
+base==0.0.0
+beautifulsoup4==4.12.2
+dpkt_fix==1.7
+fiona==1.9.4.post1
+geopy==2.3.0
+numpy==1.24.1
+pandas==2.0.1
+publicsuffix2==2.20191221
+pytz==2023.3
+Requests==2.31.0
+reverse_geocode==1.4.1
+ripe==0.0.4
+scikit_learn==1.2.2
+scipy==1.11.1
+utils==1.0.1
+xgboost==1.6.2
