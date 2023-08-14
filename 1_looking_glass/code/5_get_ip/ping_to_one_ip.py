@@ -117,7 +117,7 @@ list_test_api = [
 input_list = pickle.load(open(f'{FORMER_RESULT_DIR}/list_good_routers.bin', 'rb'))
 print('src: ', len(input_list))
 
-def ping_to_one_machine(m_idx);
+def ping_to_one_machine(m_idx):
     os.system(f'mkdir -p {DST_DIR}/{m_idx}_record')
     TIME_FILE = open(f'{DST_DIR}/{m_idx}_send.txt', 'w')
     for idx, one_router in enumerate(input_list):
