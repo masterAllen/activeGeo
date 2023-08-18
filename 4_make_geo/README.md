@@ -1,6 +1,7 @@
 Geolocation :)
 
-Requirement: put these files in `pickle_bin`:
+### Requirement
+put these files in `pickle_bin`:
 - `dict_countrycode_info.bin` from `0_location_hint`
 - `dict_server_info.bin` from `3_make_ping`
 - `dict_client_info.bin` from `3_make_ping`
