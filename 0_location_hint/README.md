@@ -1,8 +1,9 @@
-Build our Location Hint Dictionary.
+Build Location Hint Dictionary.
 
-**Note: For convenience, we refer to 'country/region' as 'country'! (Because 'country or region' makes names too long, such as `dict_city_by_country_or_region`.) This project has nothing to do with politics. If you feel offended by any part of this project, please do not hesitate to contact us!**
+### Note
+**For convenience, we refer to 'country/region' as 'country'! (Because 'country or region' makes names too long, such as `dict_city_by_country_or_region`.) This project has nothing to do with politics. If you feel offended by any part of this project, please do not hesitate to contact us!**
 
-
+### Output
 This directory will output some files located in `pickle_bin`, we have given these results.
 
 ### Requirements
