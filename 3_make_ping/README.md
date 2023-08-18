@@ -1,6 +1,9 @@
-In this directory, we use our collected Looking Glasses to ping collected end points. The output will be located in the subdirectory `pickle_bin`.
+In this directory, we use our collected Looking Glasses to ping collected end points. 
 
-## Requirement
+### Output
+The output will be located in the subdirectory `pickle_bin`. The output is used for the next stage, we have given those demo files in that directory. You can skip this stage :-)
+
+### Requirement
 1. This directory needs two source files, which should be put in the subdirectory `src`: `dict_server_info.bin` and `dict_client_info.bin`.
 Both of these two files have the following form:
 ```
