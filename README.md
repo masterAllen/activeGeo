@@ -11,14 +11,14 @@ Authors: [Allen Hong](https://github.com/masterAllen), [Yahui Li](https://www.in
 Python 3.8+ is ok, then `pip install -r requirements.txt` to install the required packages :)
 
 ## Usage
-Each directory has a subdirectory called `code`, execute py files then get result. 
+Each directory has a subdirectory called `code`, execute `.py` files then get result. 
 
 The respective roles of each directory are as follows:
-- `0_location_hint`: building some location hint dictionaries.
-- `1_looking_glass`: getting the location and api of Looking Glasses.
-- `2_end_points`: collecting some end points.
-- `3_make_ping`: using Looking Glass to make measurement.
-- `4_make_geo`: geolocating with our measurement data.
+- `0_location_hint`: Building some location hint dictionaries.
+- `1_looking_glass`: Getting the location and api of Looking Glasses.
+- `2_end_points`: Collecting some end points.
+- `3_make_ping`: Using Looking Glass to make measurement.
+- `4_make_geo`: Geolocating with our measurement data.
 
 ## FAQ
 Q: Why is there no reproduction code for related work?
