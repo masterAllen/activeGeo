@@ -27,4 +27,4 @@ A: This repository is just the code of our work. Thanks very much to [the work o
 
 Q: Why are there some differences in the results of the evaluation?
 
-A: The results are highly dependent on the input data. We re-generated training and test data during each evaluation. Unluckily, the original data of the paper has been overwritten :(
+A: The results are highly dependent on the input data. We re-generated training and test data during each evaluation.
